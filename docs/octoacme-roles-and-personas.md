@@ -320,7 +320,47 @@ DevOps and Infrastructure Engineers manage deployment pipelines, infrastructure,
 
 ---
 
+## Documentation / Knowledge Management Lead
+
+### Role Summary
+Documentation / Knowledge Management Leads own the creation, maintenance, and accessibility of institutional knowledge, process documentation, and best practices. They ensure critical information is discoverable, up-to-date, and leveraged across the organization.
+
+### Responsibilities
+- Develop and maintain comprehensive process documentation and guides
+- Create and manage templates, checklists, and runbooks
+- Conduct knowledge audits and identify documentation gaps
+- Review and approve documentation changes for quality, clarity, and consistency
+- Facilitate knowledge transfer and onboarding through documentation
+- Establish documentation standards, style guides, and governance
+- Maintain a centralized knowledge base and documentation structure
+- Conduct documentation reviews on process improvement PRs
+
+### Goals
+- Reduce onboarding time and single-person dependency risks
+- Ensure consistent, repeatable project execution across teams
+- Capture and preserve institutional knowledge
+- Improve team alignment through accessible documentation
+- Reduce context-switching and knowledge loss
+
+### Typical Communication
+- Documentation review meetings and feedback
+- Knowledge audit discussions with team leads
+- Onboarding documentation walkthroughs
+- Process improvement collaboration sessions
+- Documentation governance and standards discussions
+
+### Interaction with Other Roles
+- **Project Managers**: Collaborate on process documentation and decision logs
+- **Product Managers**: Document feature requirements and business context
+- **Scrum Master**: Maintain agile process documentation and retrospective insights
+- **All Roles**: Review and validate role-specific documentation for accuracy
+- **Technical Lead**: Document architecture decisions and technical standards
+- **Stakeholders/Sponsors**: Communicate high-level strategic documentation
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Reference the interaction matrix (octoacme-roles-interaction-matrix.md) to understand cross-functional dependencies and collaboration patterns.
+- The Documentation/Knowledge Management Lead persona is particularly valuable for reviewing process improvement PRs and ensuring documentation quality.
